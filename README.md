@@ -38,7 +38,7 @@ Sou um desenvolvedor apaixonado por **cybersecurity**, **games** e **automação
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-kupesa-a05a68343/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](andersonkupesa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](malito:andersonkupesa@gmail.com)
 
 ---
 
